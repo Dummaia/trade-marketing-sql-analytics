@@ -1,3 +1,23 @@
+# Large generated dataset
+data/raw/sell_out.csv
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local environment / credentials
+.env
+
+# VS Code local settings
+.vscode/
+
+
+.venv/
+venv/
+.env.*
+!.env.example
+*.log
+# Default Python exclusions from the repository
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]

@@ -1,0 +1,12 @@
+flowchart TD
+    A["Cadastros sintéticos: clientes, marcas e produtos"] --> D["Carga transacional com psql"]
+    B["Cadastros sintéticos: redes e lojas"] --> D
+    C["Python: geração de 1 milhão de registros"] --> E["sell_out.csv"]
+    E --> D
+    F["SQL: criação das tabelas, PKs e FKs"] --> G["PostgreSQL"]
+    D --> G
+    G --> H["SQL: JOINs, agregações, CTEs e LAG"]
+    H --> I["KPIs, rankings e evolução mensal"]
+    G --> J["Python: consultas SQL com Pandas"]
+    J --> K["CSVs e gráficos com Matplotlib"]
+    J --> L["Visuais para LinkedIn"]

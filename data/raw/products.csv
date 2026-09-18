@@ -1,0 +1,9 @@
+product_id,brand_id,product_name,category,sku,cost_price,sale_price
+1,1,Aurora Cola 350ml,Refrigerantes,AUR-COL-350,2.10,4.99
+2,1,Aurora Cola 600ml,Refrigerantes,AUR-COL-600,3.20,6.99
+3,1,Aurora Cola 2L,Refrigerantes,AUR-COL-2L,5.50,10.99
+4,2,Aurora Energy 269ml,Energeticos,AUR-ENE-269,3.80,7.99
+5,2,Aurora Energy 473ml,Energeticos,AUR-ENE-473,5.20,10.99
+6,3,Nova Chips Original 100g,Salgadinhos,NOV-CHI-100,3.00,6.49
+7,4,Prime Beauty Shampoo 400ml,Cuidados Pessoais,PRI-SHA-400,8.50,17.90
+8,5,Horizonte Chips 120g,Salgadinhos,HOR-CHI-120,3.40,7.49

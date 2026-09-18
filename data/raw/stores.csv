@@ -1,0 +1,6 @@
+store_id,retailer_id,store_name,city,state
+1,1,MercadoMax Santo André,Santo André,SP
+2,1,MercadoMax Campinas,Campinas,SP
+3,2,CompraMais Guarulhos,Guarulhos,SP
+4,2,CompraMais Osasco,Osasco,SP
+5,3,FarmaVida Tatuapé,São Paulo,SP
